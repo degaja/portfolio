@@ -1,0 +1,27 @@
+#grid {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  border-bottom: 2px solid black;
+  margin: 0;
+  padding: 15px;
+}
+
+ul {
+  border-right: 2px solid black;
+  width: 150px;
+  margin: 0;
+  padding: 30px;
+}
